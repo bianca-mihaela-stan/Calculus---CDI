@@ -1,2 +1,2 @@
-# Calculus-CDI-
-differential and integral calculus
+# Calculus-CDI- Ilias Petre
+
