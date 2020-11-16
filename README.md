@@ -1,4 +1,6 @@
-# Calculus - Ilias Petre
+# Calculus
+
+This course was taught by Ilias Petre.
 
 This course gave us a very fast paced overview of Calculus. We covered:
 - metric spaces, number sequences, convergence, divergence
